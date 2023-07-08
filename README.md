@@ -6,4 +6,4 @@ A signal is then transmitted to a servo motor, which unhinges the lid. The motor
 ![Smart Dustbin photo 2](https://github.com/Sakshi-2707/Smart-Dustbin-Using-Ardinuo/assets/127045654/cb4d80d8-88dd-4d95-b5a0-e4ef843836f7)
 
 ![Smart Dustbin Photo](https://github.com/Sakshi-2707/Smart-Dustbin-Using-Ardinuo/assets/127045654/3773d78c-6af6-4794-8e7b-121b64a85b1b)
-![WhatsApp Image 2023-07-08 at 10 54 21](https://github.com/Sakshi-2707/Smart-Dustbin-Using-Ardinuo/assets/127045654/7ec20143-cd14-4319-aca8-28e41fb8bd59)
+
